@@ -7,24 +7,6 @@ An interactive browser-based visualization tool that demonstrates how Dijkstra's
 
 ![Dijkstra's Algorithm in Action](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Dijkstra%27s+Algorithm+Visualization)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Algorithm Explanation](#algorithm-explanation)
-- [Technologies Used](#technologies-used)
-- [How It Works](#how-it-works)
-- [Customization](#customization)
-- [Browser Compatibility](#browser-compatibility)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 This project provides a complete browser-based implementation of Dijkstra's shortest path algorithm with animated visualizations. It allows users to:
@@ -63,7 +45,7 @@ Perfect for students, educators, and anyone interested in learning about pathfin
 
 ## 🎮 Demo
 
-Visit the live demo: [Dijkstra's Algorithm Visualization](https://rahulkumar7189.github.io/dijkstra-algorithm-visualization/)
+Visit the live demo: [Dijkstra's Algorithm Visualization]([https://rahulkumar7189.github.io/dijkstra-algorithm-visualization/](https://dijkstra-algorithm-visualization.vercel.app/))
 
 ### Quick Start Guide
 1. Open the application in your browser
