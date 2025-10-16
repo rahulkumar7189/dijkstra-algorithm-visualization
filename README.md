@@ -45,7 +45,7 @@ Perfect for students, educators, and anyone interested in learning about pathfin
 
 ## 🎮 Demo
 
-Visit the live demo: [Dijkstra's Algorithm Visualization]([https://rahulkumar7189.github.io/dijkstra-algorithm-visualization/](https://dijkstra-algorithm-visualization.vercel.app/))
+Visit the live demo: [Dijkstra's Algorithm Visualization](https://dijkstra-algorithm-visualization.vercel.app/)
 
 ### Quick Start Guide
 1. Open the application in your browser
