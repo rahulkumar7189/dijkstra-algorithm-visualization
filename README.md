@@ -1,7 +1,6 @@
 # 🗺️ Dijkstra's Algorithm Visualization
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://rahulkumar7189.github.io/dijkstra-algorithm-visualization/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 An interactive browser-based visualization tool that demonstrates how Dijkstra's shortest path algorithm works in real-time. This project provides an intuitive and engaging way to understand one of the most fundamental algorithms in computer science and graph theory.
 
