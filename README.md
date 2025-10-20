@@ -4,7 +4,7 @@
 
 An interactive browser-based visualization tool that demonstrates how Dijkstra's shortest path algorithm works in real-time. This project provides an intuitive and engaging way to understand one of the most fundamental algorithms in computer science and graph theory.
 
-![Dijkstra's Algorithm in Action](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Dijkstra%27s+Algorithm+Visualization)
+![Dijkstra's Algorithm in Action](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Dijkstra%27s+Algorithm+Visualization) 
 
 ## 🎯 Overview
 
